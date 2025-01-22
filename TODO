@@ -1,3 +1,56 @@
 
 Todo:
-  ☐ Item
+  
+  
+APRENDIZAJE
+
+☐ Generar un  array o objeto
+☐ Convertirlo en json
+☐ que lo gestione mysql y node
+☐ volver a traer el objeto en jsoon
+☐ ver nuevamente mi array o obejeto
+
+
+Subir el contenido a GitHug
+☐ Hacer mi Primer Push
+FORMULARIO DE SOLICITUD
+  
+    ☐ Crear boton y lista desplegable que cambiar de color alguna parte para indicar que falta enviar el presupuesto
+  
+FORMULARIO DE ADMINISTRADOR
+
+  
+  
+CORREO A EMPRESA
+    Paso 1 (llega el correo para confirmar el presupuesto)
+    ☐ se debe enviar a algun correo
+    ☐ El correo debe tener el numero de ticket
+    ☐ PDF de cotizacion
+    ☐ Ordenar la ruta que se llevará a cabo
+        -Llenado de formulario
+    
+    
+    Paso 2 Ya se acepta el presupuesto. Ahora se envia el nombre del interprete
+    
+    ☐ El formuario donde se enviaria para generar le PDF
+    
+    
+    Paso 3 Se acepto el pago y se da las gracias por la contratacion del servicio.
+    
+    
+    
+    
+    ☐ CORREO FUNCIONARIO
+    
+    
+    ☐ Generar un pdf con codigo
+
+
+
+  ✔ que el numeor de los tickets no sea random @started(25-01-14 23:17) @done(25-01-14 23:45) @lasted(28m28s)
+  ✔ necesito agregar el numero de ticket en index2 @done(25-01-15 02:08)
+  ✔ Debo aprobar el ultimo ticket... agregarlo a la lista @started(25-01-14 23:46) @done(25-01-15 02:07) @lasted(2h21m49s)
+  ✔ dejar formulario en blanco @started(25-01-15 10:25) @done(25-01-15 10:28) @lasted(3m2s)
+  ✔ Agregar señabulario a gitHub @done(25-01-15 23:09)
+  ✔ Agregar NEW a gitHub y asignarle nombre a Proyecto (Gestion de Personal) @done(25-01-15 23:09)
+  
